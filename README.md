@@ -39,8 +39,8 @@ I welcome contributions! If you have suggestions, feel free to fork this repo, c
 
 ## 📬 Contact
 Let's connect! 🚀
-- **LinkedIn**: [https://www.linkedin.com/in/yupabhishek/](#)
+- **LinkedIn**: https://www.linkedin.com/in/yupabhishek(#)
 - **Twitter**: [@pitpiat](#)
-- **Email**: [yuppabhishek@gmail.com](mailto:youremail@example.com)
+- **Email**: [mailto:yuppabhishek@gmail.com]
 
 If you like this project, consider giving it a ⭐ on GitHub! Happy coding! 😃
