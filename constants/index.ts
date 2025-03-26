@@ -249,7 +249,7 @@ export const PROJECTS = [
     description:
       'Pituiya is a powerful Discord bot platform offering automation, moderation, and interactive features. Users can explore bot statistics, public bot listings, and invite Pituiya to their servers. Developed by PITPIAT#5499, it enhances community engagement and server management seamlessly.',
     image: "/projects/project-6.png",
-    link: "https://pitpiat.netlify.app/pituiya",
+    link: "https://pitpiat.netlify.app/bots/pituiya",
   },
   {
     title: "html/css/js Portfolio",
